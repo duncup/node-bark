@@ -1,0 +1,26 @@
+{
+  "name": "bark",
+  "version": "0.0.1",
+  "description": "A node sdk for https://github.com/Finb/bark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duncup/node-bark.git"
+  },
+  "author": {
+    "name": "duncup",
+    "email": "dlmsoft.wolf@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duncup/node-bark/issues"
+  },
+  "homepage": "https://github.com/duncup/node-bark#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "got": "^11.8.0"
+  }
+}
