@@ -1,6 +1,6 @@
 {
   "name": "@duncup/bark",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A node sdk for https://github.com/Finb/bark",
   "main": "index.js",
   "publishConfig": {
